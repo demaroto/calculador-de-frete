@@ -1,0 +1,51 @@
+.rowDados, .rowEnvio{
+	color: #666;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.error{
+	border-color:red;
+}
+.correto{
+	border-color: green;
+}
+#container_c{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+.titulo
+{
+	color:green;
+}
+ul.servico_ul{
+	list-style: none;
+}
+li.servico{
+	list-style: none;
+	color:blue;
+	font-size: 18px;
+}
+	.bigImage{
+		width: 38.8%;
+	}
+	.smallImage{
+		width:14.55%;
+	}
+#msg{
+	text-align: center;
+	color:#999;
+	color:yellow;
+
+}
+.msg{
+
+}
+
+
+
+
+
+
+
+
